@@ -1,1 +1,2 @@
-# gestor-de-tarefas
+Este projeto é um sistema simples de gerenciamento de tarefas feito em PHP, MySQL, HTML, CSS e JavaScript, funcionando em hospedagens como o InfinityFree. Ele permite criar, editar, excluir, concluir, filtrar, exportar e importar tarefas de forma prática.
+O sistema permite editar qualquer tarefa já cadastrada, marcar como concluída quando estiver finalizada, e excluir quando não for mais necessária. Além disso, conta com funções de exportar todas as tarefas em arquivo CSV e importar um CSV para adicionar várias tarefas de uma só vez. Esses recursos facilitam backup, organização e migração de dados.
